@@ -1,0 +1,426 @@
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\UIDesign.exe.config
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\UIDesign.exe
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\UIDesign.pdb
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\ModernWpf.Controls.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\ModernWpf.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\af-ZA\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\af-ZA\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\am-ET\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\am-ET\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\ar-SA\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\ar-SA\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\az-Latn-AZ\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\az-Latn-AZ\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\be-BY\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\be-BY\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\bg-BG\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\bg-BG\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\bn-BD\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\bn-BD\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\bs-Latn-BA\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\bs-Latn-BA\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\ca-ES\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\ca-ES\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\cs-CZ\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\cs-CZ\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\da-DK\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\da-DK\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\de-DE\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\de-DE\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\el-GR\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\el-GR\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\en-GB\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\en-GB\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\es-ES\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\es-ES\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\es-MX\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\es-MX\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\et-EE\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\et-EE\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\eu-ES\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\eu-ES\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\fa-IR\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\fa-IR\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\fi-FI\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\fi-FI\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\fr-CA\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\fr-CA\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\fr-FR\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\fr-FR\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\gl-ES\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\gl-ES\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\he-IL\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\he-IL\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\hi-IN\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\hi-IN\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\hr-HR\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\hr-HR\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\hu-HU\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\hu-HU\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\id-ID\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\id-ID\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\is-IS\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\is-IS\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\it-IT\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\it-IT\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\ja-JP\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\ja-JP\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\ka-GE\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\ka-GE\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\kk-KZ\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\kk-KZ\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\km-KH\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\km-KH\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\kn-IN\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\kn-IN\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\ko-KR\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\ko-KR\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\lo-LA\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\lo-LA\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\lt-LT\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\lt-LT\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\lv-LV\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\lv-LV\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\mk-MK\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\mk-MK\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\ml-IN\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\ml-IN\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\ms-MY\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\ms-MY\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\nb-NO\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\nb-NO\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\nl-NL\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\nl-NL\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\nn-NO\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\nn-NO\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\pl-PL\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\pl-PL\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\pt-BR\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\pt-BR\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\pt-PT\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\pt-PT\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\ro-RO\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\ro-RO\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\ru-RU\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\ru-RU\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\sk-SK\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\sk-SK\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\sl-SI\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\sl-SI\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\sq-AL\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\sq-AL\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\sr-Latn-RS\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\sr-Latn-RS\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\sv-SE\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\sv-SE\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\sw-KE\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\sw-KE\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\ta-IN\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\ta-IN\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\te-IN\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\te-IN\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\th-TH\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\th-TH\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\tr-TR\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\tr-TR\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\uk-UA\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\uk-UA\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\uz-Latn-UZ\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\uz-Latn-UZ\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\vi-VN\ModernWpf.Controls.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\vi-VN\ModernWpf.resources.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\System.ValueTuple.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\obj\Debug\MainWindow.g.cs
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\obj\Debug\App.g.cs
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\obj\Debug\UIDesign_MarkupCompile.cache
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\obj\Debug\MainWindow.baml
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\obj\Debug\UIDesign.g.resources
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\obj\Debug\UIDesign.Properties.Resources.resources
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\obj\Debug\UIDesign.csproj.GenerateResource.cache
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\obj\Debug\UIDesign.csproj.CopyComplete
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\obj\Debug\UIDesign.exe
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\obj\Debug\UIDesign.pdb
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\obj\Debug\UIDesign.csprojAssemblyReference.cache
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\obj\Debug\App.baml
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\obj\Debug\UIDesign_MarkupCompile.lref
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\obj\Debug\Views\EtidarUsuario.g.cs
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\obj\Debug\Views\EtidarUsuario.baml
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\obj\Debug\Views\Background.g.cs
+C:\Users\mq005129\source\repos\UIDesign\UIDesign\obj\Debug\Views\Background.baml
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\UIDesign.exe.config
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\UIDesign.exe
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\UIDesign.pdb
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\ModernWpf.Controls.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\ModernWpf.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\af-ZA\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\af-ZA\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\am-ET\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\am-ET\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\ar-SA\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\ar-SA\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\az-Latn-AZ\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\az-Latn-AZ\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\be-BY\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\be-BY\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\bg-BG\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\bg-BG\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\bn-BD\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\bn-BD\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\bs-Latn-BA\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\bs-Latn-BA\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\ca-ES\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\ca-ES\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\cs-CZ\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\cs-CZ\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\da-DK\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\da-DK\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\de-DE\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\de-DE\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\el-GR\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\el-GR\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\en-GB\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\en-GB\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\es-ES\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\es-ES\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\es-MX\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\es-MX\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\et-EE\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\et-EE\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\eu-ES\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\eu-ES\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\fa-IR\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\fa-IR\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\fi-FI\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\fi-FI\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\fr-CA\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\fr-CA\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\fr-FR\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\fr-FR\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\gl-ES\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\gl-ES\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\he-IL\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\he-IL\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\hi-IN\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\hi-IN\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\hr-HR\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\hr-HR\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\hu-HU\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\hu-HU\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\id-ID\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\id-ID\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\is-IS\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\is-IS\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\it-IT\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\it-IT\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\ja-JP\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\ja-JP\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\ka-GE\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\ka-GE\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\kk-KZ\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\kk-KZ\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\km-KH\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\km-KH\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\kn-IN\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\kn-IN\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\ko-KR\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\ko-KR\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\lo-LA\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\lo-LA\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\lt-LT\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\lt-LT\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\lv-LV\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\lv-LV\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\mk-MK\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\mk-MK\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\ml-IN\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\ml-IN\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\ms-MY\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\ms-MY\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\nb-NO\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\nb-NO\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\nl-NL\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\nl-NL\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\nn-NO\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\nn-NO\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\pl-PL\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\pl-PL\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\pt-BR\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\pt-BR\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\pt-PT\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\pt-PT\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\ro-RO\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\ro-RO\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\ru-RU\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\ru-RU\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\sk-SK\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\sk-SK\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\sl-SI\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\sl-SI\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\sq-AL\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\sq-AL\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\sr-Latn-RS\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\sr-Latn-RS\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\sv-SE\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\sv-SE\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\sw-KE\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\sw-KE\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\ta-IN\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\ta-IN\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\te-IN\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\te-IN\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\th-TH\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\th-TH\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\tr-TR\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\tr-TR\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\uk-UA\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\uk-UA\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\uz-Latn-UZ\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\uz-Latn-UZ\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\vi-VN\ModernWpf.Controls.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\vi-VN\ModernWpf.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\System.ValueTuple.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\obj\Debug\UIDesign.csproj.AssemblyReference.cache
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\obj\Debug\UIDesign.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\obj\Debug\UIDesign.exe.config
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\obj\Debug\App.baml
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\obj\Debug\MainWindow.g.cs
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\obj\Debug\Views\Background.g.cs
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\obj\Debug\App.g.cs
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\obj\Debug\UIDesign_MarkupCompile.cache
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\obj\Debug\UIDesign_MarkupCompile.lref
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\obj\Debug\MainWindow.baml
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\obj\Debug\Views\Background.baml
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\obj\Debug\UIDesign.g.resources
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\obj\Debug\UIDesign.Properties.Resources.resources
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\obj\Debug\UIDesign.csproj.GenerateResource.cache
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\obj\Debug\UIDesign.csproj.CoreCompileInputs.cache
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\obj\Debug\UIDesign.exe
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\obj\Debug\UIDesign.pdb
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\obj\Debug\UIDesign.csproj.Up2Date
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\Azure.Core.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\Azure.Identity.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\Dapper.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.CircumIcons.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.GameIcons.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.Lucide.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.MemoryIcons.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MahApps.Metro.IconPacks.PhosphorIcons.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\System.Buffers.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\System.ClientModel.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\System.Memory.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\System.Memory.Data.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\System.Security.AccessControl.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\System.Security.Permissions.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\System.Text.Json.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\obj\Debug\Views\EditarUsuario.baml
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\obj\Debug\Views\EditarUsuario.g.cs
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\Avalonia.Base.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\Avalonia.Controls.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\Avalonia.DesignerSupport.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\Avalonia.Dialogs.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\Avalonia.Markup.Xaml.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\Avalonia.Markup.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\Avalonia.Metal.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\Avalonia.MicroCom.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\Avalonia.OpenGL.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\Avalonia.Vulkan.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\Avalonia.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\Avalonia.Controls.ColorPicker.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\Avalonia.Remote.Protocol.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\ColorPickerWPF.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\MicroCom.Runtime.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\ColorPicker.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\WriteableBitmapEx.Wpf.dll
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\bin\Debug\WriteableBitmapEx.Wpf.pdb
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\obj\Debug\Avalonia\Resources.Inputs.cache
+C:\Users\GAEL AH\Downloads\UIDesign\UIDesign\obj\Debug\UIDesign.GeneratedMSBuildEditorConfig.editorconfig

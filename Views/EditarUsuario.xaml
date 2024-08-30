@@ -1,0 +1,167 @@
+﻿<Window x:Class="UIDesign.Views.EditarUsuario"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
+        mc:Ignorable="d"
+        MaxHeight="300" MaxWidth="750"
+        MinHeight="250" MinWidth="700"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        Background="Transparent"
+        WindowStartupLocation="CenterScreen"
+        Title="EditarUsuario" Height="250" Width="700">
+
+    <Window.Resources>
+        <BooleanToVisibilityConverter x:Key="BoolToVis" />
+    </Window.Resources>
+
+
+
+    <Border Background="White"
+            CornerRadius="15"
+            BorderBrush="Gray"
+            BorderThickness="1">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition />
+            </Grid.RowDefinitions>
+
+            <Border CornerRadius="15 15 0 0"
+                    Background="#0D409B">
+                <Grid>
+                    <TextBlock Text="Editar Usuario"
+                               HorizontalAlignment="Center"
+                               VerticalAlignment="Center"
+                               FontSize="20"
+                               FontWeight="Bold"
+                               Margin="0,10"
+                               Foreground="White"/>
+                </Grid>
+            </Border>
+
+            <!-- Barra de Título Personalizada con Solo Botón de Cerrar -->
+            <StackPanel Orientation="Horizontal"
+                        HorizontalAlignment="Right"
+                        VerticalAlignment="Top">
+                <Button Style="{StaticResource exitButton}"
+                        Command="{Binding CloseCommand}"
+                        Margin="5 6 7 5"
+                        Cursor="Hand">
+                    <StackPanel Orientation="Horizontal">
+                        <Icon:PackIconMaterial Kind="Close"
+                                VerticalAlignment="Center"
+                                Width="12"
+                                Height="12" />
+                    </StackPanel>
+                </Button>
+            </StackPanel>
+
+            <Grid Grid.Row="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition/>
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0" Margin="0 50 0 0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock HorizontalAlignment="Center"
+                               FontSize="13"
+                               FontWeight="Bold"
+                               Grid.Column="0">
+                        <Run Text="Nombre"/>
+                        <Run Text="*" Foreground="Red" FontWeight="Black"/>
+                    </TextBlock>
+                    <TextBlock HorizontalAlignment="Center"
+                           FontSize="13"
+                           FontWeight="Bold"
+                           Grid.Column="1">
+                        <Run Text="Posicion"/>
+                        <Run Text="*" Foreground="Red" FontWeight="Black"/>
+                    </TextBlock>
+                    <TextBlock HorizontalAlignment="Center"
+                               FontSize="13"
+                               FontWeight="Bold"
+                               Grid.Column="2">
+                        <Run Text="Correo"/>
+                        <Run Text="*" Foreground="Red" FontWeight="Black"/>
+                    </TextBlock>
+                    <TextBlock HorizontalAlignment="Center"
+                               FontSize="13"
+                               FontWeight="Bold"
+                               Grid.Column="3">
+                        <Run Text="Telefono"/>
+                        <Run Text="*" Foreground="Red" FontWeight="Black"/>
+                    </TextBlock>
+                </Grid>
+                <Grid Grid.Row="1" Margin="0 -50 0 0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition />
+                        <ColumnDefinition />
+                        <ColumnDefinition />
+                        <ColumnDefinition />
+                    </Grid.ColumnDefinitions>
+                    <TextBox Width="150"
+                             HorizontalAlignment="Center"
+                             Height="25"
+                             x:Name="txbName" />
+                    <TextBox Width="150"
+                             Grid.Column="1"
+                             HorizontalAlignment="Center"
+                             Height="25"
+                             x:Name="txbPosition"/>
+                    <TextBox Width="150"
+                             Grid.Column="2"
+                             HorizontalAlignment="Center"
+                             Height="25"
+                             x:Name="txbEmail" />
+                    <TextBox Width="150"
+                             Grid.Column="3"
+                             HorizontalAlignment="Center"
+                             Height="25"
+                             x:Name="txbPhone" />
+                </Grid>
+
+                <Grid Grid.Row="2">
+                    <Button Margin="10"
+                            Width="140"
+                            Style="{StaticResource addButton}"
+                            Cursor="Hand"
+                            Click="btnAdd_Click"
+                            x:Name="btnAdd">
+                        <StackPanel Orientation="Horizontal">
+                            <Icon:PackIconMaterial Kind="Plus"
+                                                   VerticalAlignment="Center"
+                                                   Margin="0 0 10 0"
+                                                   Width="15"
+                                                   Height="15" />
+                            <TextBlock Text="Guardar cambios" />
+                        </StackPanel>
+                    </Button>
+
+                    <Button Margin="10"
+                            Style="{StaticResource cancelButton}"
+                            Cursor="Hand"
+                            Click="btnCancelar_Click"
+                            x:Name="btnCancelar">
+                        <StackPanel Orientation="Horizontal">
+                            <Icon:PackIconMaterial Kind="Cancel"
+                                                   VerticalAlignment="Center"
+                                                   Margin="0 0 10 0"
+                                                   Width="15"
+                                                   Height="15" />
+                            <TextBlock Text="Cancelar" />
+                        </StackPanel>
+                    </Button>
+                </Grid>
+            </Grid>
+        </Grid>
+    </Border>
+</Window>
